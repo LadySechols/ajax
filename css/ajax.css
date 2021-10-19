@@ -1,0 +1,16 @@
+#contents {
+	background-color: #eee;
+	border: 1px solid black;
+	height: 200px;
+	width: 400px;
+	margin: 20px;
+}
+
+table {
+	width: 100%;
+
+}
+
+td {
+	border: 1px solid #000;
+}
